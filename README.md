@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a software engineer specializing in full-stack web development.
 
-## About Me
+## About
 
 - 🌍 Location: Orange County, CA
 - 💼 Currently looking for new opportunities
