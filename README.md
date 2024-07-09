@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a software engineer specializing in full-stack
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-griego&show_icons=true&theme=radical)
 
-## Contact
+## Links
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-griego-2134a340/)
 - [Email](mailto:ryangriego@gmail.com)
