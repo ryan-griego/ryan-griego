@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a software engineer specializing in full-stack
 
 ## Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/ryan-griego-2134a340/))
+- [LinkedIn](https://www.linkedin.com/in/ryan-griego-2134a340/)
 - [Email](mailto:ryangriego@gmail.com)
 - [Portfolio](https://ryangriego.com/)
 - [Blog](https://ryangriego.com/blog)
