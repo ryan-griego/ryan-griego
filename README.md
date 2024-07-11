@@ -1,6 +1,6 @@
 # Hello, I'm Ryan
 
-Welcome to my GitHub profile! I'm a software engineer specializing in full-stack web development.
+Welcome to my GitHub profile! I'm a software engineer!
 
 ## About
 
