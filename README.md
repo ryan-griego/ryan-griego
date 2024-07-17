@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a software engineer!
 - 🌍 Location: Orange County, CA
 - 💼 Currently looking for new opportunities
 - 🎓 Education: San Francisco State University + LearningFuze Full Stack Coding Bootcamp
-- 🌱 Learning: Next.JS, MongoDB
 - ⚡ Fun Fact: I love scuba diving, hiking, and reading science fiction
 
 ## Skills
