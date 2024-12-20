@@ -1,6 +1,6 @@
 # Hello, I'm Ryan
 
-Welcome to my GitHub profile! I'm a software engineer!
+Welcome to my GitHub profile! I'm a software developer!
 
 ## About
 
